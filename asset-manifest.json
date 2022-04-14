@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Amany-s_-Portfolio/static/css/main.5db21fc4.chunk.css",
+    "main.js": "/Amany-s_-Portfolio/static/js/main.e1ef3586.chunk.js",
+    "main.js.map": "/Amany-s_-Portfolio/static/js/main.e1ef3586.chunk.js.map",
+    "runtime-main.js": "/Amany-s_-Portfolio/static/js/runtime-main.f7ba30f2.js",
+    "runtime-main.js.map": "/Amany-s_-Portfolio/static/js/runtime-main.f7ba30f2.js.map",
+    "static/js/2.d1420e79.chunk.js": "/Amany-s_-Portfolio/static/js/2.d1420e79.chunk.js",
+    "static/js/2.d1420e79.chunk.js.map": "/Amany-s_-Portfolio/static/js/2.d1420e79.chunk.js.map",
+    "index.html": "/Amany-s_-Portfolio/index.html",
+    "static/css/main.5db21fc4.chunk.css.map": "/Amany-s_-Portfolio/static/css/main.5db21fc4.chunk.css.map",
+    "static/js/2.d1420e79.chunk.js.LICENSE.txt": "/Amany-s_-Portfolio/static/js/2.d1420e79.chunk.js.LICENSE.txt",
+    "static/media/About.d829fedb.jpeg": "/Amany-s_-Portfolio/static/media/About.d829fedb.jpeg",
+    "static/media/addess.35ff0ca0.png": "/Amany-s_-Portfolio/static/media/addess.35ff0ca0.png",
+    "static/media/intro.css": "/Amany-s_-Portfolio/static/media/lap.7931332a.jpg",
+    "static/media/moon.3bea3d39.png": "/Amany-s_-Portfolio/static/media/moon.3bea3d39.png",
+    "static/media/index.css": "/Amany-s_-Portfolio/static/media/paper.9d3add40.jpg",
+    "static/media/phonee.8851ff7b.png": "/Amany-s_-Portfolio/static/media/phonee.8851ff7b.png",
+    "static/media/sun.f794832a.png": "/Amany-s_-Portfolio/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ba30f2.js",
+    "static/js/2.d1420e79.chunk.js",
+    "static/css/main.5db21fc4.chunk.css",
+    "static/js/main.e1ef3586.chunk.js"
+  ]
+}
